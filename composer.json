@@ -1,0 +1,19 @@
+{
+    "name": "shura/node",
+    "type": "library",
+    "require": {
+        "shura/exeggutor": "^0.0.1",
+        "shura/php-which": "^0.0.1"
+    },
+    "authors": [
+        {
+            "name": "Domenico Shura",
+            "email": "shura1991@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Shura\\Node\\": "src"
+        }
+    }
+}
