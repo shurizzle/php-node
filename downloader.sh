@@ -1,6 +1,6 @@
 #!/bin/sh
 
-VERSION=6.8.0
+VERSION=9.2.0
 DEST="bins"
 
 cd "$(dirname "$0")"
